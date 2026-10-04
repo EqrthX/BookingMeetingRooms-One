@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "ห้องประชุม A",
+    "Capacity": 6,
+    "Status": "Available"
+  },
+  {
+    "Id": 2,
+    "Name": "ห้องประชุม B",
+    "Capacity": 12,
+    "Status": "Available"
+  },
+  {
+    "Id": 3,
+    "Name": "ห้องประชุม C",
+    "Capacity": 4,
+    "Status": "Available"
+  },
+  {
+    "Id": 4,
+    "Name": "ห้องประชุม D",
+    "Capacity": 5,
+    "Status": "Available"
+  },
+  {
+    "Id": 5,
+    "Name": "ห้องประชุม E",
+    "Capacity": 6,
+    "Status": "Available"
+  },
+  {
+    "Id": 6,
+    "Name": "ห้องประชุม F",
+    "Capacity": 8,
+    "Status": "Available"
+  }
+]

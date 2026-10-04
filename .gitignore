@@ -1,1 +1,31 @@
-.codex-work/
+# Dependencies and frontend build output
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# .NET build output and Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment variables (commit example files instead)
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+appsettings.Local.json
+appsettings.*.Local.json
+

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Username": "demo",
+    "Password": "$2a$11$X3nzmiEeMHFOkb4JlwHL2OBf3eMNT7NGMUGgn/FAgl0gIj6uvCncy",
+    "FirstName": "demo",
+    "LastName": "demo",
+    "CreatedAt": "2026-10-03T15:15:00.1309215+07:00",
+    "LastUpdatedAt": "2026-10-03T15:15:00.1309587+07:00"
+  },
+  {
+    "Id": 2,
+    "Username": "demo2",
+    "Password": "$2a$11$B3em7Gxesrt7l4CW8GRbIOxwjvfZBjQPMOdhopi2cjpfkk8kkfZQu",
+    "FirstName": "string",
+    "LastName": "string",
+    "CreatedAt": "2026-10-03T16:07:45.7719472+07:00",
+    "LastUpdatedAt": "2026-10-03T16:07:45.7719472+07:00"
+  }
+]
